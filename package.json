@@ -1,0 +1,22 @@
+{
+  "name": "electron-wallpanel",
+  "version": "1.0.0",
+  "description": "Smart home wallpanel built in electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inglan2/Electron-Wallpanel.git"
+  },
+  "author": "Inglan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inglan2/Electron-Wallpanel/issues"
+  },
+  "homepage": "https://github.com/Inglan2/Electron-Wallpanel#readme",
+  "devDependencies": {
+    "electron": "^28.2.3"
+  }
+}
