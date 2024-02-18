@@ -1,10 +1,5 @@
 theme:
   name: material
-site_name: "Electron-Wallpanel"
-nav:
-  - "index.md"
-  - "api.md"
-theme:
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -25,3 +20,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
+site_name: "Electron-Wallpanel"
+nav:
+  - "index.md"
+  - "api.md"
