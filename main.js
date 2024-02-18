@@ -6,7 +6,7 @@ const createWindow = () => {
   const window = new BrowserWindow({
     fullscreen: true,
   });
-  window.loadURL("https://example.com");
+  window.loadURL("https://inglan2.github.io/Electron-Wallpanel/installed/");
 };
 
 app.whenReady().then(() => {
