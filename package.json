@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Inglan2/Electron-Wallpanel#readme",
   "devDependencies": {
     "electron": "^28.2.3"
+  },
+  "dependencies": {
+    "ip": "^1.1.8"
   }
 }
