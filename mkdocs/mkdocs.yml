@@ -2,6 +2,7 @@ theme:
   name: material
   icon:
     logo: material/tablet
+    repo: fontawesome/brands/github
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -27,3 +28,6 @@ site_name: "Electron-Wallpanel"
 nav:
   - "index.md"
   - "api.md"
+
+repo_url: https://github.com/Inglan2/Electron-Wallpanel
+repo_name: Inglan2/Electron-Wallpanel
